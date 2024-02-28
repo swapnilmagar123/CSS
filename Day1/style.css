@@ -1,0 +1,21 @@
+div{
+    background-color: red;
+}
+.redd{
+    color: black;
+    background-color: rgb(85, 85, 137);
+
+}
+h1{
+    font-size: 64px;
+    color: brown;
+    background-color: black;
+    text-align: center;
+    font-weight: 500;
+    line-height: 4;
+    margin: 2% auto;
+    letter-spacing: 3;
+    
+
+
+}
