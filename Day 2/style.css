@@ -1,0 +1,31 @@
+/* element selectors h1 div */
+/* * universal selectors stand for all the componants  */
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.kings{
+background-color: bisque;
+}
+/* element selectors */
+h1,h4{
+    color: red;
+}
+/* id selecors */
+
+#swk{
+    font-size: smaller;
+}
+/* desedant selectors
+ */
+ div p{
+    color: brown;
+ }
+/* child combinaters */
+div > p 
+{
+    background-color: brown;
+}
+/* PSEUDO */
+.kings:hover{
+    background-color: bisque;
+}
